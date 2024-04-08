@@ -1,0 +1,7 @@
+.skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}

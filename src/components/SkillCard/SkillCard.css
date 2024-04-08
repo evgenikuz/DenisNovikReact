@@ -1,0 +1,13 @@
+.skill-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 206px;
+}
+.skill-name {
+    font-size: 14px;
+    max-width: 80px;
+}
+.level-of-skill {
+    margin-top: auto;
+}

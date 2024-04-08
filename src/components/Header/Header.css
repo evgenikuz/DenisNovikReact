@@ -1,0 +1,66 @@
+#header{
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    background-color:white;
+    z-index: 1;
+}
+.item {
+    text-decoration: none;
+    font-family: "Gilroy-Bold", sans-serif;
+    color: #828282;
+    transition: 0.3s;
+}
+.item:hover {
+    color: #070707;
+}
+.desktop li {
+    list-style: none;
+}
+.desktop ul {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 33px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 42px;
+    max-width: 1000px;
+
+}
+.burger img {
+    height:19px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.burger {
+    border: none;
+    padding: 10px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    background-color:white;
+    transition: 0.3s;
+    display: none;
+    position: fixed;
+    top: 68px;
+    right: 30px;
+}
+.burger:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+hr {
+    color: #828282;
+    margin: 0 auto;
+    max-width: 940px;
+}
+
+@media (max-width: 500px) {
+    .desktop {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+}

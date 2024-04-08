@@ -1,0 +1,24 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 99px;
+}
+.portfolio h2 {
+    margin-bottom: -52px;
+}
+.portfolio img {
+    max-height: 524px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.link{
+    margin-top: 42px;
+    transition: 0.3s;
+}
+.link:hover {
+    transform: scale(1.1);
+}
+.portfolio a{
+    color:#070707;
+}

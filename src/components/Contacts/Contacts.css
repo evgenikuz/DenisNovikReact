@@ -1,0 +1,42 @@
+.contact-btn {
+    background-color:black;
+    color: white;
+    border-radius: 30px;
+    padding: 12px 30px;
+    margin-top: 11px;
+    margin-bottom: 86px;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 1px solid black;
+}
+.contact-btn:hover {
+    background-color:white;
+    color:black;
+}
+.icons-container img {
+    transition: 0.3s;
+}
+.icons-container {
+    display: flex;
+    justify-content: space-around;
+    width: 342px;
+}
+.icons-container a:hover img {
+    transform: scale(1.1);
+}
+.hint {
+    color:#828282;
+    font-size: 14px;
+    margin-top: 45px;
+}
+@media (max-width: 500px) {
+    .icons-container{
+        max-width: 100%;
+    }
+    .contact-btn {
+        align-self: stretch;
+    }
+    .hint {
+        font-size: 18px;
+    }
+  }

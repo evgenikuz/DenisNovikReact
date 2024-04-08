@@ -1,0 +1,45 @@
+.mobile {
+    top: 0;
+    position: fixed;
+    z-index: 100;
+    height: 100vh;
+    width: 100vw;
+    background:  #fff;
+    padding: 66px 28px 0 26px;
+    transition: 1s;
+    right: 0;
+}
+.mobile_nav .item{
+    font-size: 34px;
+}
+.mobile_nav{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 395px;
+    justify-content: space-between;
+}
+.close-btn{
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    position: absolute;
+    right: 28px;
+    top: 66px;
+    transition: 0.5s;
+}
+.close-btn:hover {
+    transform: scale(1.1);
+    transform: rotate(180deg);
+    cursor:pointer;
+}
+.d-none {
+    /* display: none; */
+    right: -100%;
+}
+.close-btn img {
+    width: 22.873px;
+    height: 22.244px;
+    object-fit: cover;
+    object-position: center;
+}
