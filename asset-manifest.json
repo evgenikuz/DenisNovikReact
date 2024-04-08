@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/DenisNovikReact/static/css/main.a1061247.css",
+    "main.js": "/DenisNovikReact/static/js/main.c454f43b.js",
+    "static/js/453.7a90f55d.chunk.js": "/DenisNovikReact/static/js/453.7a90f55d.chunk.js",
+    "static/media/Denis-Novik.jpeg": "/DenisNovikReact/static/media/Denis-Novik.25e4c100f070b89a1717.jpeg",
+    "static/media/linkedin.svg": "/DenisNovikReact/static/media/linkedin.e8b46334c4b0b0ecb0c7d407b7802abd.svg",
+    "static/media/reebok.jpg": "/DenisNovikReact/static/media/reebok.909b41bafe83d9b1ce7b.jpg",
+    "static/media/fashion-store.jpg": "/DenisNovikReact/static/media/fashion-store.23c601cf2368ad4c6a1b.jpg",
+    "static/media/Braun.jpg": "/DenisNovikReact/static/media/Braun.3d97515010d435d1d4ac.jpg",
+    "static/media/Gilroy-Medium.eot": "/DenisNovikReact/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
+    "static/media/Gilroy-Medium.ttf": "/DenisNovikReact/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
+    "static/media/Gilroy-Bold.eot": "/DenisNovikReact/static/media/Gilroy-Bold.a732fed1bc6140852a0b.eot",
+    "static/media/Gilroy-Bold.ttf": "/DenisNovikReact/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
+    "static/media/Gilroy-Medium.woff": "/DenisNovikReact/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
+    "static/media/Gilroy-Bold.woff": "/DenisNovikReact/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
+    "static/media/Ps.jpg": "/DenisNovikReact/static/media/Ps.6ce18bd8c4898158456a.jpg",
+    "static/media/Ai.jpg": "/DenisNovikReact/static/media/Ai.b99efe30cb9f8b4ddcdc.jpg",
+    "static/media/dribble.svg": "/DenisNovikReact/static/media/dribble.17a35942f63cb872857c436cfae0a5ce.svg",
+    "static/media/behance.svg": "/DenisNovikReact/static/media/behance.64f3ceb29ac42184d716cf9bad95c0b7.svg",
+    "static/media/instagram.svg": "/DenisNovikReact/static/media/instagram.5fc9d738e4096f5ad905fd8ecf8fc316.svg",
+    "index.html": "/DenisNovikReact/index.html",
+    "static/media/close.svg": "/DenisNovikReact/static/media/close.720de1cf4b6f49d8221bfffe10c8402f.svg",
+    "static/media/hamburger-menu.svg": "/DenisNovikReact/static/media/hamburger-menu.973721b6f3b14c650a7971210fce621b.svg",
+    "main.a1061247.css.map": "/DenisNovikReact/static/css/main.a1061247.css.map",
+    "main.c454f43b.js.map": "/DenisNovikReact/static/js/main.c454f43b.js.map",
+    "453.7a90f55d.chunk.js.map": "/DenisNovikReact/static/js/453.7a90f55d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1061247.css",
+    "static/js/main.c454f43b.js"
+  ]
+}
