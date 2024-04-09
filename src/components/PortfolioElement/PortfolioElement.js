@@ -4,7 +4,7 @@ import CloseBtn from './close.svg'
 function PortfolioElement({img, alt, SiteName}) {
     return ( 
     <div className="portfolio__element">
-        <button className="close-btn"><img src={CloseBtn} alt="Кнопка закрытия" onClick={closePicture}/></button>
+        <button className="close-btn-port"><img src={CloseBtn} alt="Кнопка закрытия" onClick={closePicture}/></button>
         <a href="#">
             <img src={img} alt={alt} />
             <div className="link">{SiteName}</div>
@@ -17,5 +17,5 @@ function PortfolioElement({img, alt, SiteName}) {
 export default PortfolioElement
 
 function closePicture() {
-    document.querySelector('.portfolio__element').innerHTML('');
+    document.querySelector('.portfolio__element').innerHTML='';
 }

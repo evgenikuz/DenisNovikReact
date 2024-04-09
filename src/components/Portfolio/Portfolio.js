@@ -8,7 +8,7 @@ import Button from '../Button/Button'
 
 
 function Portfolio() {
-    let [text, example] = useState()
+    let [emptySpace, example] = useState()
     return (
         <div className="section gray" id="portfolio">
         <div className="container">
@@ -19,7 +19,7 @@ function Portfolio() {
                     <Button buttonText="Braun" action={() => example(<PortfolioElement img={reebok} alt="Homepage of Reebok store" SiteName='Reebok Store - Concept'/>)}/>
                     <Button buttonText="Reebok" action={() => example(<PortfolioElement img={braun} alt="Homepage of Braun store" SiteName='Braun Landing Page - Concept'/>)}/>
                 </div>
-                {text}
+                {emptySpace}
             </div>
         </div>
     </div>
@@ -27,3 +27,4 @@ function Portfolio() {
 }
 
 export default Portfolio
+

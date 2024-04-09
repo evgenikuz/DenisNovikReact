@@ -2,6 +2,17 @@
     display: flex;
     flex-direction: column;
 }
-.close-btn {
+.close-btn-port {
     align-self: flex-end;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition: 0.5s;
+
+}
+.close-btn-port:hover {
+    transform: scale(1.1);
+    transform: rotate(180deg);
 }
