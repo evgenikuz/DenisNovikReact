@@ -1,0 +1,7 @@
+.portfolio__element {
+    display: flex;
+    flex-direction: column;
+}
+.close-btn {
+    align-self: flex-end;
+}

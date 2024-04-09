@@ -1,0 +1,15 @@
+.portfolio__button {
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    max-width: 200px;
+    padding: 7px 15px;
+    border: 1px solid black;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.portfolio__button:hover {
+    background-color: white;
+    color: black;
+}

@@ -13,6 +13,13 @@ h1 {
     margin:0;
     margin-bottom: 19px;
 }
+.above-the-picture {
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 30px;
+    width: 100%;
+}
 @media (max-width: 500px) {
     h1 {
         margin-top:-57px;
