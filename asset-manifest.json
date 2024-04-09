@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DenisNovikReact/static/css/main.7f8f21de.css",
-    "main.js": "/DenisNovikReact/static/js/main.af030ae2.js",
+    "main.css": "/DenisNovikReact/static/css/main.b0d0585c.css",
+    "main.js": "/DenisNovikReact/static/js/main.d13a9767.js",
     "static/js/453.7a90f55d.chunk.js": "/DenisNovikReact/static/js/453.7a90f55d.chunk.js",
     "static/media/Denis-Novik.jpeg": "/DenisNovikReact/static/media/Denis-Novik.25e4c100f070b89a1717.jpeg",
     "static/media/linkedin.svg": "/DenisNovikReact/static/media/linkedin.e8b46334c4b0b0ecb0c7d407b7802abd.svg",
@@ -22,12 +22,12 @@
     "index.html": "/DenisNovikReact/index.html",
     "static/media/close.svg": "/DenisNovikReact/static/media/close.720de1cf4b6f49d8221bfffe10c8402f.svg",
     "static/media/hamburger-menu.svg": "/DenisNovikReact/static/media/hamburger-menu.973721b6f3b14c650a7971210fce621b.svg",
-    "main.7f8f21de.css.map": "/DenisNovikReact/static/css/main.7f8f21de.css.map",
-    "main.af030ae2.js.map": "/DenisNovikReact/static/js/main.af030ae2.js.map",
+    "main.b0d0585c.css.map": "/DenisNovikReact/static/css/main.b0d0585c.css.map",
+    "main.d13a9767.js.map": "/DenisNovikReact/static/js/main.d13a9767.js.map",
     "453.7a90f55d.chunk.js.map": "/DenisNovikReact/static/js/453.7a90f55d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f8f21de.css",
-    "static/js/main.af030ae2.js"
+    "static/css/main.b0d0585c.css",
+    "static/js/main.d13a9767.js"
   ]
 }
